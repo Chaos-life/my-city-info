@@ -15,6 +15,27 @@ export default function Home() {
         <div className="absolute -bottom-24 -left-24 w-80 h-80 bg-sky-400/20 rounded-full blur-3xl pointer-events-none" />
 
         <div className="relative max-w-5xl mx-auto px-5 py-12 sm:px-8 sm:py-16">
+          {/* 상단 네비게이션 */}
+          <nav className="flex items-center justify-between mb-8 pb-4 border-b border-white/15">
+            <Link href="/" className="text-lg font-extrabold tracking-tight flex items-center gap-2">
+              🏙️ 성남시 생활 정보
+            </Link>
+            <div className="flex items-center gap-2">
+              <Link
+                href="/"
+                className="px-4 py-2 rounded-full text-sm font-bold bg-white text-blue-700 shadow-sm"
+              >
+                홈
+              </Link>
+              <Link
+                href="/blog"
+                className="px-4 py-2 rounded-full text-sm font-semibold text-blue-100 hover:bg-white/10 transition-colors"
+              >
+                블로그
+              </Link>
+            </div>
+          </nav>
+
           <div className="inline-flex items-center gap-2 bg-white/15 backdrop-blur-md border border-white/20 text-blue-50 text-xs font-semibold px-3.5 py-1.5 rounded-full mb-4 shadow-sm">
             <span className="w-2 h-2 rounded-full bg-sky-300 animate-pulse" />
             우리 동네 알짜 소식통
@@ -104,7 +125,7 @@ export default function Home() {
                   </div>
 
                   <Link
-                    href={`/info/${item.id}`}
+                    href="/blog"
                     className="block w-full text-center bg-emerald-600 hover:bg-emerald-700 text-white text-sm font-semibold py-3.5 rounded-xl shadow-md shadow-emerald-600/20 transition-colors duration-200"
                   >
                     상세 정보 보기 →
@@ -173,7 +194,7 @@ export default function Home() {
                   </div>
 
                   <Link
-                    href={`/info/${item.id}`}
+                    href="/blog"
                     className="block w-full text-center bg-gradient-to-r from-blue-600 to-indigo-600 hover:from-blue-700 hover:to-indigo-700 text-white text-sm font-semibold py-3.5 rounded-xl shadow-md shadow-blue-500/20 transition-all duration-200"
                   >
                     신청 방법 확인하기 →
