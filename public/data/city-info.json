@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-10",
+  "lastUpdated": "2026-11-11",
   "items": [
     {
       "id": "event-1",
@@ -126,6 +126,17 @@
       "target": "기획재정부령에서 정한 방법 또는 요건에 적합하게 채포한 수산물을 국내로 수입하는 자",
       "summary": "적법하게 채포한 수산물을 국내로 수입하는 자에게 관세감면",
       "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=594739&bnefType=all&svcId=119200000010"
+    },
+    {
+      "id": 1794436887882,
+      "name": "귀어 창업 및 주택구입 지원(융자)",
+      "category": "혜택",
+      "startDate": "2024-05-19",
+      "endDate": "상시",
+      "location": "해양수산부 및 시·군·구청",
+      "target": "귀어업인(희망자 포함) 및 재촌비어업인로서 만 65세 이하인 자",
+      "summary": "귀어업 지원자에게 창업 및 주택구입 자금 융자에 대한 이자 차이를 지원합니다.",
+      "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999205&bnefType=all&svcId=119200000012"
     }
   ]
 }
