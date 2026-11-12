@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-11",
+  "lastUpdated": "2026-11-12",
   "items": [
     {
       "id": "event-1",
@@ -137,6 +137,17 @@
       "target": "귀어업인(희망자 포함) 및 재촌비어업인로서 만 65세 이하인 자",
       "summary": "귀어업 지원자에게 창업 및 주택구입 자금 융자에 대한 이자 차이를 지원합니다.",
       "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999205&bnefType=all&svcId=119200000012"
+    },
+    {
+      "id": 1794522894439,
+      "name": "원양어업 경영자금 지원",
+      "category": "혜택",
+      "startDate": "2024-05-20",
+      "endDate": "상시",
+      "location": "한국원양산업협회",
+      "target": "원양어업허가를 받은 자 또는 해외합작 원양어업 신고를 한 자",
+      "summary": "원양어업을 허가받은 자 또는 해외합작 원양어업 신고자를 대상으로 원양어업경영자금 융자 지원",
+      "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=510664&bnefType=all&svcId=119200000016"
     }
   ]
 }
