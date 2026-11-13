@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-12",
+  "lastUpdated": "2026-11-13",
   "items": [
     {
       "id": "event-1",
@@ -148,6 +148,17 @@
       "target": "원양어업허가를 받은 자 또는 해외합작 원양어업 신고를 한 자",
       "summary": "원양어업을 허가받은 자 또는 해외합작 원양어업 신고자를 대상으로 원양어업경영자금 융자 지원",
       "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=510664&bnefType=all&svcId=119200000016"
+    },
+    {
+      "id": 1794609264848,
+      "name": "원양어선안전관리",
+      "category": "혜택",
+      "startDate": "2024-05-19",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "원양산업발전법 제6조에 따른 원양어업허가를 받은 자",
+      "summary": "원양어선 선사에게 노후 원양어선의 대체 및 건조 지원",
+      "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=594801&bnefType=all&svcId=119200000022"
     }
   ]
 }
