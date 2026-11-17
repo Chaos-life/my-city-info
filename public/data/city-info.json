@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-16",
+  "lastUpdated": "2026-11-17",
   "items": [
     {
       "id": "event-1",
@@ -192,6 +192,17 @@
       "target": "어업경영체(어업인, 어업법인 등)",
       "summary": "어업인 및 어업법인을 대상으로 저금리 운영자금 지원",
       "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=999217&bnefType=all&svcId=119200000045"
+    },
+    {
+      "id": 1794955384546,
+      "name": "TAC 참여어업인 경영개선자금 지원",
+      "category": "혜택",
+      "startDate": "2024-05-20",
+      "endDate": "상시",
+      "location": "해양수산부",
+      "target": "TAC 참여 어업인(단, 제주도 소라 채취 어업인은 및 TAC 참여 1단계 어업인은 제외)",
+      "summary": "TAC 참여 어업인에게 경영개선자금 융자지원",
+      "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=519397&bnefType=all&svcId=119200000053"
     }
   ]
 }
