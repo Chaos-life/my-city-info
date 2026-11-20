@@ -1,5 +1,5 @@
 {
-  "lastUpdated": "2026-11-19",
+  "lastUpdated": "2026-11-20",
   "items": [
     {
       "id": "event-1",
@@ -225,6 +225,17 @@
       "target": "선령 15년 이상 연근해어선을 소유하고 자부담이 가능한 어업인",
       "summary": "노후화된 연근해 어선을 현대화 어선으로 대체 건조할 수 있도록 지원합니다.",
       "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=520320&bnefType=all&svcId=119200000056"
+    },
+    {
+      "id": 1795214205302,
+      "name": "어업활동 지원",
+      "category": "혜택",
+      "startDate": "2024-05-19",
+      "endDate": "상시",
+      "location": "시·군·구청",
+      "target": "「수산업·어촌 발전 기본법」상 어업인으로 어업경영체에 등록된 경영주 및 경영주 외 어업인 중 사고·질병·교육·임신·출산 등으로 어업활동이 곤란한 자",
+      "summary": "사고·질병 등으로 어업활동이 곤란한 어가 대상으로 대체인력 채용비용 지원",
+      "link": "https://plus.gov.kr/portal/benefitV2/benefitTotalSrvcList/benefitSrvcDtl?svcSeq=696042&bnefType=all&svcId=119200000059"
     }
   ]
 }
